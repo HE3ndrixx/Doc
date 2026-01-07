@@ -1,4 +1,4 @@
 FROM ghcr.io/lorinekylie/mesite:latest
-ENV DOMAIN=trojan-vless-200ok-topnet-955183711976.europe-west4.run.app
+ENV DOMAIN=topnet777-200ok-trojan-vless-231520605974.us-central1.run.app
 ENV UUID=aaaaaaa7-bbbb-7ccc-accc-eeeeeeeeeee7
 
